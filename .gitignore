@@ -1,0 +1,6 @@
+*
+!kitty.conf
+!.gitignore
+!.config
+!.config/kitty/
+!.config/kitty/*
