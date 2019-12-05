@@ -3,4 +3,4 @@
 !.gitignore
 !.config
 !.config/kitty/
-!.config/kitty/*
+!.config/kitty/kitty.conf
